@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "hey hi",
+    "response": "Hi there! I'm Medifusion Assistant, and I'm here to help.\nHow can I support you today?"
+  },
+  {
+    "prompt": "am suffering with head ache could u help me?",
+    "response": "Oh dear, I'm sorry to hear you're suffering from a headache. That can be really tough.\nSometimes resting in a quiet, dimly lit room and staying well-hydrated can offer some comfort.\nIf your headache is severe, unusual, or doesn't improve, it's always a good idea to speak with a doctor.\nHow long have you been feeling this way?"
+  }
+]

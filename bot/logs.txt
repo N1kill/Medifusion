@@ -1,0 +1,12 @@
+
+[2025-12-03 12:35:03.638438]
+PROMPT: hey hi
+RESPONSE: Hi there! I'm Medifusion Assistant, and I'm here to help.
+How can I support you today?
+
+[2025-12-03 12:35:41.368349]
+PROMPT: am suffering with head ache could u help me?
+RESPONSE: Oh dear, I'm sorry to hear you're suffering from a headache. That can be really tough.
+Sometimes resting in a quiet, dimly lit room and staying well-hydrated can offer some comfort.
+If your headache is severe, unusual, or doesn't improve, it's always a good idea to speak with a doctor.
+How long have you been feeling this way?

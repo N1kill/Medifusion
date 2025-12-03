@@ -1,0 +1,49 @@
+body { background:#0f1724; font-family:Arial; padding:40px; color:white; }
+.card { background:#112033; padding:20px; border-radius:12px; width:600px; margin:auto; }
+textarea { width:100%; height:120px; background:#0c1a2b; color:white; padding:10px; }
+button { padding:10px; background:#6ee7b7; border:none; cursor:pointer; margin-top:10px; }
+pre {
+  background: #0c1a2b;
+  padding: 15px;
+  border-radius: 10px;
+  margin-top: 20px;
+  white-space: pre-wrap;      /* enables wrapping */
+  word-wrap: break-word;      /* breaks long words */
+  
+  max-height: 300px;          /* prevents overflowing */
+  overflow-y: auto;           /* adds scroll bar */
+  
+  max-width: 100%;            /* stays inside card */
+}
+/* ==========additonal css================ */
+.chat-box{
+  background:#06111a;
+  padding:14px;
+  border-radius:12px;
+  min-height:180px;
+  max-height:360px;
+  overflow-y:auto;
+  white-space:pre-wrap;
+}
+
+.message{
+  margin-bottom:12px;
+  padding:10px;
+  border-radius:10px;
+  max-width:80%;
+}
+
+.user{
+  background:#1f6f61;
+  color:#dfffe9;
+  margin-left:auto;
+  text-align:right;
+}
+
+.ai{
+  background:#14374a;
+  color:#fff;
+  margin-right:auto;
+  text-align:left;
+}
+
